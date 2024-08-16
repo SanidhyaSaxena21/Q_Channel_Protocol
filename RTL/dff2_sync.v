@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Sanidhya Saxena
 // 
 // Create Date: 16.08.2024 17:33:02
 // Design Name: 
